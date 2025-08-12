@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cireng and Me</title>
+</head>
+<body>
+    <h1>Cireng is makanan the best</h1>
+    <p>Pecinta cireng</p>
+    <p2>nama:Fajar Wildan</p2>
+    <p>Sekolah: SMPN 1 Cipatat</p>
+    <img style="width: 100%; height: auto;" src="png-clipart-cireng-salju-bandung-rojak-rendang-peanut-sauce-bakso-food-recipe.png" alt="cireng mewing"
+    <p>PENJELASAN</p>
+    <p2>Cireng adalah singkatan dari aci digoreng, yang dalam bahasa Sunda berarti "tepung kanji goreng". Makanan ini merupakan camilan khas Sunda yang terbuat dari adonan tepung tapioka yang digoreng hingga renyah. 
+Cireng menjadi populer di Jawa Barat, terutama di daerah Priangan, dan dikenal dengan teksturnya yang kenyal di dalam dan renyah di luar. Makanan ini seringkali dijual dalam berbagai bentuk dan variasi rasa, bahkan ada juga yang menjual cireng isi. 
+Cireng biasanya dinikmati dengan cara dicocol ke dalam bumbu yang khas, seperti bumbu rujak atau bumbu kacang. Meskipun terbuat dari bahan sederhana, cireng memiliki rasa yang gurih dan menjadi camilan favorit banyak orang. 
+Secara singkat, ciri khas cireng adalah:
+Bahan utama: Tepung tapioka atau aci
+Cara memasak: Digoreng
+Tekstur: Kenyal di dalam dan renyah di luar
+Rasa: Gurih
+Asal: Sunda
+Penyajian: Biasanya dicocol bumbu </p2>
+
+<p>.</p>
+<p1>.</p1>
+<p>.</p>
+
+     <h4>Sosok Fajar W.</h4>
+
+ <img style="width: 100%; height: auto;" src="Fajar.jpg">
+
+   
+</body>
+</html>
